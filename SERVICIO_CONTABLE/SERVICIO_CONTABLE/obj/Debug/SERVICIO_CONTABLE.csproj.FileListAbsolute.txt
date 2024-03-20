@@ -1,0 +1,43 @@
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\bin\Debug\SERVICIO_CONTABLE.exe.config
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\bin\Debug\SERVICIO_CONTABLE.exe
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\bin\Debug\SERVICIO_CONTABLE.pdb
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Form1.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Properties.Resources.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.csproj.GenerateResource.Cache
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.exe
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.pdb
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.iniciador.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Pagina_Principal.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Cerrar_Application.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Eliminar_Asientos.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Diario.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Balance.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Cuenta.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Mayor.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Usuario.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Usuario_Cambio_Contraseña.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Usuario_Crear_Cuenta.resources
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.csproj.AssemblyReference.cache
+C:\Users\LENOVO INTEL\Desktop\visual\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\bin\Debug\SERVICIO_CONTABLE.exe.config
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\bin\Debug\SERVICIO_CONTABLE.exe
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\bin\Debug\SERVICIO_CONTABLE.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Cerrar_Application.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Eliminar_Asientos.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Form1.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.iniciador.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Cuenta.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Diario.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Libro_Mayor.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Usuario.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Usuario_Cambio_Contraseña.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.Usuario_Crear_Cuenta.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.exe
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.LIBRO_BALANCESS.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.filtrar.resources
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\SERVICIO_CONTABLE\obj\Debug\SERVICIO_CONTABLE.inicio.resources

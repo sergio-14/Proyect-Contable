@@ -1,0 +1,7 @@
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\obj\Debug\cmlibro.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\obj\Debug\cmlibro.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\bin\Debug\cmlibro.dll.config
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\bin\Debug\cmlibro.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\bin\Debug\cmlibro.pdb
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\obj\Debug\cmlibro.dll
+C:\Users\Sergio\Desktop\Nueva carpeta\memoria-python-main\tarea codigo\trabajos c#\trabajos c#\PROYECTOS VISUAL ESTUDIO\SERVICIO_CONTABLE\cmlibro\obj\Debug\cmlibro.pdb
